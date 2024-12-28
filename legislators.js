@@ -270,7 +270,8 @@ const legislators = [
         "img": "/Images/Legislators/110034.jpg",
         "link": "/Pages/List.aspx?nodeid=46787",
         "location": "新北市第9選舉區",
-        "county": "new-taipei"
+        "county": "new-taipei",
+        "unseatLink": "https://linktr.ee/bettershuanghe",
     },
     {
         "name": "林憶君",
@@ -424,7 +425,8 @@ const legislators = [
         "img": "/Images/Legislators/110054.jpg",
         "link": "/Pages/List.aspx?nodeid=46804",
         "location": "新北市第8選舉區",
-        "county": "new-taipei"
+        "county": "new-taipei",
+        "unseatLink": "https://linktr.ee/bettershuanghe",
     },
     {
         "name": "張雅琳",
@@ -701,7 +703,8 @@ const legislators = [
         "img": "/Images/Legislators/110089.jpg",
         "link": "/Pages/List.aspx?nodeid=46837",
         "location": "新北市第7選舉區",
-        "county": "new-taipei"
+        "county": "new-taipei",
+        "unseatLink": "https://www.threads.net/@banqiao_east_recall?igshid=NTc4MTIwNjQ2YQ=="
     },
     {
         "name": "葛如鈞",
