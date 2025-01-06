@@ -14,7 +14,8 @@ const legislators = [
         "img": "/Images/Legislators/110002.jpg",
         "link": "/Pages/List.aspx?nodeid=46757",
         "location": "桃園市第1選舉區",
-        "county": "taoyuan"
+        "county": "taoyuan",
+        "unseatLink": "https://linktr.ee/birdcrushcow"
     },
     {
         "name": "王世堅",
@@ -54,7 +55,8 @@ const legislators = [
         "img": "/Images/Legislators/110007.jpg",
         "link": "/Pages/List.aspx?nodeid=46762",
         "location": "臺北市第3選舉區",
-        "county": "taipei"
+        "county": "taipei",
+        "unseatLink": "https://linktr.ee/wanghongwei2025gg"
     },
     {
         "name": "伍麗華Saidhai‧Tahovecahe",
@@ -134,7 +136,8 @@ const legislators = [
         "img": "/Images/Legislators/110017.jpg",
         "link": "/Pages/List.aspx?nodeid=46862",
         "location": "桃園市第5選舉區",
-        "county": "taoyuan"
+        "county": "taoyuan",
+        "unseatLink": "https://linktr.ee/taoyuan6"
     },
     {
         "name": "李坤城",
@@ -158,7 +161,8 @@ const legislators = [
         "img": "/Images/Legislators/110020.jpg",
         "link": "/Pages/List.aspx?nodeid=46773",
         "location": "臺北市第4選舉區",
-        "county": "taipei"
+        "county": "taipei",
+        "unseatLink": "https://linktr.ee/recall.giansiu"
     },
     {
         "name": "李柏毅",
@@ -295,7 +299,8 @@ const legislators = [
         "img": "/Images/Legislators/110037.jpg",
         "link": "/Pages/List.aspx?nodeid=46789",
         "location": "桃園市第6選舉區",
-        "county": "taoyuan"
+        "county": "taoyuan",
+        "unseatLink": "https://linktr.ee/taoyuan6"
     },
     {
         "name": "邱鎮軍",
@@ -336,7 +341,8 @@ const legislators = [
         "img": "/Images/Legislators/110043.jpg",
         "link": "/Pages/List.aspx?nodeid=46794",
         "location": "新北市第1選舉區",
-        "county": "new-taipei"
+        "county": "new-taipei",
+        "unseatLink": "https://line.me/ti/g2/xLgx2iK-K0uhs8nhuzPntrF_gAZotnzKcdKu3w"
     },
     {
         "name": "范雲",
@@ -352,7 +358,8 @@ const legislators = [
         "img": "/Images/Legislators/110045.jpg",
         "link": "/Pages/List.aspx?nodeid=46796",
         "location": "臺北市第7選舉區",
-        "county": "taipei"
+        "county": "taipei",
+        "unseatLink": "https://linktr.ee/recallhsu900"
     },
     {
         "name": "徐欣瑩",
@@ -376,7 +383,8 @@ const legislators = [
         "img": "/Images/Legislators/110048.jpg",
         "link": "/Pages/List.aspx?nodeid=46799",
         "location": "桃園市第2選舉區",
-        "county": "taoyuan"
+        "county": "taoyuan",
+        "unseatLink": "https://linktr.ee/taoyuanboxer.recall"
     },
     {
         "name": "翁曉玲",
@@ -654,7 +662,7 @@ const legislators = [
         "link": "/Pages/List.aspx?nodeid=46831",
         "location": "臺中市第5選舉區",
         "county": "taichung",
-        "unseatLink": "https://www.threads.net/@recallvote.beibeitun"
+        "unseatLink": "https://linktr.ee/recallvote_beibeitun"
     },
     {
         "name": "黃國昌",
@@ -687,7 +695,7 @@ const legislators = [
         "link": "/Pages/List.aspx?nodeid=46835",
         "location": "臺中市第3選舉區",
         "county": "taichung",
-        "unseatLink": "https://openchat.line.me/tw/cover/se5JEltd-BXwvo2sa2shZtMayiW9i6hBWJn7K07ubIWbLTFz6g8UBqylyQ0"
+        "unseatLink": "https://linktr.ee/recallvote_taichung3rd"
     },
     {
         "name": "萬美玲",
@@ -695,7 +703,8 @@ const legislators = [
         "img": "/Images/Legislators/110088.jpg",
         "link": "/Pages/List.aspx?nodeid=46836",
         "location": "桃園市第4選舉區",
-        "county": "taoyuan"
+        "county": "taoyuan",
+        "unseatLink": "https://linktr.ee/taoyuan6"
     },
     {
         "name": "葉元之",
@@ -704,7 +713,7 @@ const legislators = [
         "link": "/Pages/List.aspx?nodeid=46837",
         "location": "新北市第7選舉區",
         "county": "new-taipei",
-        "unseatLink": "https://www.threads.net/@banqiao_east_recall?igshid=NTc4MTIwNjQ2YQ=="
+        "unseatLink": "https://linktr.ee/banqiaobigsanyuan"
     },
     {
         "name": "葛如鈞",
@@ -720,7 +729,8 @@ const legislators = [
         "img": "/Images/Legislators/110091.jpg",
         "link": "/Pages/List.aspx?nodeid=46839",
         "location": "新北市第12選舉區",
-        "county": "new-taipei"
+        "county": "new-taipei",
+        "unseatLink": "https://linktr.ee/12scissorkick"
     },
     {
         "name": "廖偉翔",
@@ -729,7 +739,7 @@ const legislators = [
         "link": "/Pages/List.aspx?nodeid=46840",
         "location": "臺中市第4選舉區",
         "county": "taichung",
-        "unseatLink": "https://www.threads.net/@tc4recall"
+        "unseatLink": "https://linktr.ee/tc4.recall"
     },
     {
         "name": "劉建國",
@@ -777,7 +787,8 @@ const legislators = [
         "img": "/Images/Legislators/110098.jpg",
         "link": "/Pages/List.aspx?nodeid=46846",
         "location": "桃園市第3選舉區",
-        "county": "taoyuan"
+        "county": "taoyuan",
+        "unseatLink": "https://linktr.ee/chunglirecall"
     },
     {
         "name": "盧縣一",
@@ -793,7 +804,8 @@ const legislators = [
         "img": "/Images/Legislators/110100.jpg",
         "link": "/Pages/List.aspx?nodeid=46848",
         "location": "臺北市第8選舉區",
-        "county": "taipei"
+        "county": "taipei",
+        "unseatLink": "https://linktr.ee/banish.laishyhbao"
     },
     {
         "name": "賴惠員",
@@ -850,7 +862,7 @@ const legislators = [
         "link": "/Pages/List.aspx?nodeid=46855",
         "location": "臺中市第2選舉區",
         "county": "taichung",
-        "unseatLink": "https://openchat.line.me/tw/cover/Hyho7ihAzNFfm7dHd5I8Nv8tjlEyTQGB_ulQ9TazN6ioW8gGHQ4GhjlVRGs"
+        "unseatLink": "https://recallfromtaichungseconderea.neocities.org/"
     },
     {
         "name": "羅廷瑋",
@@ -858,7 +870,8 @@ const legislators = [
         "img": "/Images/Legislators/110108.jpg",
         "link": "/Pages/List.aspx?nodeid=46856",
         "location": "臺中市第6選舉區",
-        "county": "taichung"
+        "county": "taichung",
+        "unseatLink": "https://linktr.ee/beat__low"
     },
     {
         "name": "羅明才",
@@ -883,7 +896,7 @@ const legislators = [
         "link": "/Pages/List.aspx?nodeid=46859",
         "location": "臺北市第6選舉區",
         "county": "taipei",
-        "unseatLink": "https://line.me/ti/g2/QvNLbpt5xCyV18XOAwEBaqsTQQ9cNtbe7fPVZQ"
+        "unseatLink": "https://linktr.ee/daanreboot?ltclid=62c715c0-2e87-46ba-9e4f-8c3af837ba5e"
     },
     {
         "name": "蘇巧慧",
